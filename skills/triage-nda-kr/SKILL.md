@@ -1,10 +1,6 @@
 ---
 name: triage-nda-kr
-description: >
-  한국법 기준으로 NDA(비밀유지계약)를 사전 심사합니다.
-  Use when triaging or reviewing a non-disclosure agreement, confidentiality agreement,
-  or secrecy agreement under Korean law.
-argument-hint: "<NDA 텍스트 또는 파일>"
+description: 한국법 기준으로 NDA(비밀유지계약)를 사전 심사합니다. Use when triaging or reviewing a non-disclosure agreement, confidentiality agreement, or secrecy agreement under Korean law.
 ---
 
 # /legal-kr:triage-nda-kr -- 한국법 NDA 사전 심사

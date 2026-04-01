@@ -1,13 +1,6 @@
 ---
 name: adversarial-review
-description: >
-  계약 조항에 대해 3-agent adversarial 분석을 수행합니다.
-  Advocate(옹호), Devil's Advocate(반박), Judge(판정) 3단계로
-  한국법 기준 교차 검증된 GREEN/YELLOW/RED 판정을 생성합니다.
-  Use when a clause needs deeper analysis beyond simple playbook matching,
-  when the risk of a wrong assessment is high,
-  or when you need a structured debate with cited legal basis.
-argument-hint: "<계약 조항 텍스트>"
+description: 계약 조항에 대해 3-agent adversarial 분석을 수행합니다. Advocate(옹호), Devil's Advocate(반박), Judge(판정) 3단계로 한국법 기준 교차 검증된 GREEN/YELLOW/RED 판정을 생성합니다. Use when a clause needs deeper analysis beyond simple playbook matching, when the risk of a wrong assessment is high, or when you need a structured debate with cited legal basis.
 ---
 
 # /legal-kr:adversarial-review -- Adversarial 3-Agent 조항 분석

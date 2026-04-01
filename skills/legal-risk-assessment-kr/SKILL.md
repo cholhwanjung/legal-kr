@@ -1,10 +1,6 @@
 ---
 name: legal-risk-assessment-kr
-description: >
-  한국법 맥락에서 법적 위험도를 체계적으로 평가합니다.
-  Use when assessing legal risks for a project, transaction, or business decision
-  under Korean regulatory framework.
-argument-hint: "<위험 평가 대상 설명>"
+description: 한국법 맥락에서 법적 위험도를 체계적으로 평가합니다. Use when assessing legal risks for a project, transaction, or business decision under Korean regulatory framework.
 ---
 
 # /legal-kr:legal-risk-assessment-kr -- 한국법 위험도 평가

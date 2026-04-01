@@ -1,10 +1,6 @@
 ---
 name: review-contract-kr
-description: >
-  한국법 기준으로 계약서를 조항별로 분석하여 GREEN/YELLOW/RED 판정을 수행합니다.
-  Use when reviewing a contract, agreement, or terms of service under Korean law.
-  Analyzes each clause against 약관규제법, 민법, 상법, and the organization's playbook.
-argument-hint: "<계약서 텍스트 또는 파일>"
+description: 한국법 기준으로 계약서를 조항별로 분석하여 GREEN/YELLOW/RED 판정을 수행합니다. Use when reviewing a contract, agreement, or terms of service under Korean law. Analyzes each clause against 약관규제법, 민법, 상법, and the organization's playbook.
 ---
 
 # /legal-kr:review-contract-kr -- 한국법 계약서 검토
