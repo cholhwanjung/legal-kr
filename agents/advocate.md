@@ -14,12 +14,7 @@ model: sonnet
 
 ## MCP Tool 사용
 
-다음 MCP tool을 사용하여 논증을 뒷받침하십시오:
-
-- `search_laws(query)` — 관련 법령 검색
-- `get_law_detail(law_id)` — 법령 조문 상세 조회
-- `search_precedents(query)` — 조항의 유효성을 지지하는 판례 검색
-- `get_precedent_detail(case_id)` — 판례 상세 조회
+사용 가능한 MCP tool을 사용하여 논증을 뒷받침하십시오.
 
 Tool이 연결되지 않은 경우, 일반 법률 지식으로 논증하되, tool 미사용을 명시하십시오.
 
